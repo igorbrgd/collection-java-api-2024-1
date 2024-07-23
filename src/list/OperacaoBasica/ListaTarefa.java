@@ -1,7 +1,6 @@
-package OperacoesBasicas;
+package list.OperacaoBasica;
 
 import java.util.ArrayList;
-import java.util.LinkedList;
 import  java.util.List;
 
 public class ListaTarefa {
